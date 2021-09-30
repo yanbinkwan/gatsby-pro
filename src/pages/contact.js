@@ -15,15 +15,15 @@ function contact() {
           <article>
             <form className="form contact-form">
               <div className="form-row">
-                <albel htmlFor="name">Your name</albel>
+                <label htmlFor="name">Your name</label>
                 <input type="text" name="name" id="name" />
               </div>
               <div className="form-row">
-                <albel htmlFor="email">Your email</albel>
+                <label htmlFor="email">Your email</label>
                 <input type="email" name="email" id="email" />
               </div>
               <div className="form-row">
-                <albel htmlFor="message">Your message</albel>
+                <label htmlFor="message">Your message</label>
                 <textarea name="message" id="message" />
               </div>
               <button type="submit" className="btn block">
