@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<div>
+  <div
+    className="page-footer"
+  >
+    © 
+    2021
+     
+    <span>
+      Build by 
+      <a
+        href="https://gatsbyjs.com"
+      >
+        Gatsby
+      </a>
+    </span>
+  </div>
+</div>
+`;
